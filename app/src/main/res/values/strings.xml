@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LayoutPra</string>
+    <string name="text_email">email</string>
+    <string name="text_pw">password</string>
+    <string name="btn_ok">ok</string>
+    <string name="btn_cancel">cancel</string>
+    <string name="test_text">test textview test textview test textview test textview test textview test textview test textview test textview test textview test textview test textview </string>
+    <string name="btn_select">select</string>
+    <string name="html_text"><![CDATA[<font color="red">Hi!</font>, <h1>Android</h1>]]></string>
+    <string name="htn_html">html</string>
+    <string name="link">This is google domain http://www.google.com </string>
+    <string name="link2"><![CDATA[<a href="http://www.google.com">link</a>]]></string>
+
+</resources>
